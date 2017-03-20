@@ -7,3 +7,6 @@ Colores Verdes: Armonía.
 
 By Pilar García.
 Factores Humanos, Universidad Distrtal FJDC.
+
+
+<h1><a href="index.html">¡GO!</a></h1>
