@@ -87,6 +87,9 @@ nav {
       background-color: #000;
       color: #fff;
       cursor: pointer; }
+  nav a.selected {
+    background-color: #000;
+    color: #fff; }
 
 .inicio {
   background: linear-gradient(to bottom, #000000 1%, #666699 100%); }
