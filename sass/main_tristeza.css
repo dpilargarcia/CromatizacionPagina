@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css?family=Arima+Madurai|Cookie|Indie+Flower|Josefin+Sans|Just+Another+Hand|Lobster+Two|Open+Sans+Condensed|Source+Sans+Pro|Sue+Ellen+Francisco|Muli|Montez|Source+Code+Pro|Sacramento|Devonshire");
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  padding-top: 30px; }
+
+.inicio {
+  padding: 25px;
+  text-align: center; }
+  .inicio p {
+    font-family: "Arima Madurai"; }
+
+.contenedor h2 {
+  font-family: "Arima Madurai"; }
+
+.contenido {
+  width: 70%;
+  margin: auto;
+  text-align: justify; }
+
+.titulo {
+  text-align: center; }
+  .titulo h1 {
+    font-family: "Sue Ellen Francisco";
+    font-size: 3.2em; }
+
+.ref {
+  margin-top: 100px; }
+  .ref p {
+    margin: 2px; }
+
+header {
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: fixed; }
+
+nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center; }
+  nav ul {
+    margin: 0; }
+  nav li {
+    display: inline; }
+  nav li.brand {
+    padding-right: 25px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 2em; }
+    nav li.brand a {
+      font-family: "Sue Ellen Francisco"; }
+  nav a {
+    display: inline-block;
+    padding: 5px 25px 5px 25px;
+    font-family: "Arima Madurai";
+    text-decoration: none; }
+
+html, body {
+  height: 100% !important; }
+
+.footer {
+  margin-top: 50px;
+  font-size: 0.8em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-family: "Arima Madurai"; }
+  .footer p {
+    text-align: center;
+    margin: 0; }
+    .footer p img {
+      width: 50px;
+      height: 61px; }
+  .footer p.fecha {
+    font-size: 0.9em; }
+
+nav {
+  background-color: #fff; }
+  nav a {
+    color: #000;
+    font-weight: bold; }
+    nav a:hover {
+      background-color: #000;
+      color: #fff;
+      cursor: pointer; }
+
+.inicio {
+  background: linear-gradient(to bottom, #000000 1%, #666699 100%); }
+  .inicio .titulo {
+    color: #fff; }
+  .inicio p {
+    color: #fff; }
+
+.uso {
+  margin: auto;
+  border: 1px solid #282828;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-family: "Arima Madurai";
+  font-size: 17px; }
+  .uso p {
+    text-align: center !important;
+    color: #5f5f5f; }
+    .uso p strong {
+      color: #282828; }
+
+.contenido {
+  padding: 20px; }
+  .contenido p {
+    font-family: "Josefin Sans";
+    font-size: 1.1em;
+    text-align: justify;
+    color: #5f5f5f; }
+  .contenido h2 {
+    background: linear-gradient(to right, #000000 1%, #1e1e2d 100%);
+    padding: 15px;
+    color: #fff;
+    font-size: 1.1em; }
+  .contenido .ref a {
+    color: #282828; }
+
+.footer {
+  background-color: #181824;
+  color: #fff; }
+
+/*# sourceMappingURL=main_tristeza.css.map */
