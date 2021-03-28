@@ -9,4 +9,4 @@ By Pilar García.
 Factores Humanos, Universidad Distrtal FJDC.
 
 
-<h1><a href="https://dpilargarcia.github.io/CromatizacionPagina/">¡GO!</a></h1>
+<h1><a href="https://pilargarcialugo.github.io/CromatizacionPagina/">¡GO!</a></h1>
